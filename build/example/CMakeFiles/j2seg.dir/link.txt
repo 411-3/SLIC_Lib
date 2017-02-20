@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG    CMakeFiles/j2seg.dir/j2seg.cpp.o  -o j2seg -rdynamic ../../lib/libjpeg.a ../src/libSLIC.a 

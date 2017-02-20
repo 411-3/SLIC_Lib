@@ -1,0 +1,2 @@
+/home/xduser/LiHuan/SLICO/build/src/CMakeFiles/SLIC.dir
+/home/xduser/LiHuan/SLICO/build/example/CMakeFiles/j2seg.dir
